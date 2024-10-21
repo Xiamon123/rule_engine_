@@ -4,12 +4,6 @@ Rule Engine
 
 A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 
-Documentation is available at https://zeroSteiner.github.io/rule-engine/.
-
-:Warning:
-  The next major version (5.0) will remove support Python versions 3.6 and 3.7. There is currently no timeline for its
-  release.
-
 Rule Engine expressions are written in their own language, defined as strings in Python. The syntax is most similar to
 Python with some inspiration from Ruby. Some features of this language includes:
 
@@ -69,9 +63,6 @@ Install the latest release from PyPi using ``pip install rule-engine``. Releases
 indicate in each new version whether it fixes bugs, adds features or breaks backwards compatibility. See the
 `Change Log`_ for a curated list of changes.
 
-Credits
--------
-* Spencer McIntyre - zeroSteiner |social-github|
 
 License
 -------
