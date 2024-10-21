@@ -1,5 +1,5 @@
 Rule Engine
-GitHub Workflow Status (branch) PyPI
+
 
 A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 
